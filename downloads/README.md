@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [GooseRelayVPN-client-v1.6.0-windows-amd64](./GooseRelayVPN-client-v1.6.0-windows-amd64)
 - [_gamma_31480](./_gamma_31480)
 - [_river_30188](./_river_30188)
 - [archive_20260512_183020](./archive_20260512_183020)
